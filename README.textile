@@ -2,7 +2,7 @@ h1. twaud.io bindings for Ruby
 
 This gem provides bindings to http://twaud.io which allows you to post audio to twitter.
 
-It's crazy simple and depends on HTTParty:http://github.com/jnunemaker/httparty.  I've not
+It's crazy simple and depends on "HTTParty"":http://github.com/jnunemaker/httparty.  I've not
 added it as a gem dependency because there are various forks of HTTParty about that you 
 might want to use and I don't want to prescribe a certain one
 
