@@ -9,10 +9,10 @@ Gem::Specification.new do |s|
   s.date = %q{2009-07-09}
   s.description = %q{Dirt simple API for twaud.io}
   s.email = %q{dan@danwebb.net}
-  s.extra_rdoc_files = ["CHANGELOG", "lib/multipart/post.rb", "lib/twaudio.rb", "LICENSE", "README"]
-  s.files = ["CHANGELOG", "lib/multipart/post.rb", "lib/twaudio.rb", "LICENSE", "Rakefile", "README", "Manifest", "twaudio-ruby.gemspec"]
+  s.extra_rdoc_files = ["CHANGELOG", "lib/multipart/post.rb", "lib/twaudio.rb", "LICENSE", "README.textile"]
+  s.files = ["CHANGELOG", "lib/multipart/post.rb", "lib/twaudio.rb", "LICENSE", "Manifest", "Rakefile", "README.textile", "twaudio-ruby.gemspec"]
   s.homepage = %q{http://github.com/danwrong/twaudio-ruby/}
-  s.rdoc_options = ["--line-numbers", "--inline-source", "--title", "Twaudio-ruby", "--main", "README"]
+  s.rdoc_options = ["--line-numbers", "--inline-source", "--title", "Twaudio-ruby", "--main", "README.textile"]
   s.require_paths = ["lib"]
   s.rubyforge_project = %q{twaudio-ruby}
   s.rubygems_version = %q{1.3.4}

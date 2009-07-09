@@ -2,6 +2,7 @@ CHANGELOG
 lib/multipart/post.rb
 lib/twaudio.rb
 LICENSE
-Rakefile
-README
 Manifest
+Rakefile
+README.textile
+twaudio-ruby.gemspec
